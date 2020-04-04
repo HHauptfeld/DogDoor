@@ -1,0 +1,11 @@
+1-button open door
+-----------------
+X Write test for opening with 1-button remote
+X Create 1-button remote class
+X Create DogDoor class
+X Add fixtures for testing to represent external hardware
+
+1-button close door
+------------------
+- Given that the door is open
+- Press button and close door
